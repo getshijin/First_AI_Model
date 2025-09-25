@@ -1,0 +1,252 @@
+[
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 1",
+    "output": "Spider-Man"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 2",
+    "output": "Iron Man"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 3",
+    "output": "Captain America"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 4",
+    "output": "Thor"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 5",
+    "output": "Hulk"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 6",
+    "output": "Black Widow"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 7",
+    "output": "Hawkeye"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 8",
+    "output": "Doctor Strange"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 9",
+    "output": "Black Panther"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 10",
+    "output": "Scarlet Witch"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 11",
+    "output": "Vision"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 12",
+    "output": "Ant-Man"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 13",
+    "output": "Wasp"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 14",
+    "output": "Falcon"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 15",
+    "output": "Winter Soldier"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 16",
+    "output": "Star-Lord"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 17",
+    "output": "Gamora"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 18",
+    "output": "Drax"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 19",
+    "output": "Rocket Raccoon"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 20",
+    "output": "Groot"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 21",
+    "output": "Mantis"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 22",
+    "output": "Nebula"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 23",
+    "output": "Loki"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 24",
+    "output": "Nick Fury"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 25",
+    "output": "Maria Hill"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 26",
+    "output": "War Machine"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 27",
+    "output": "Quicksilver"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 28",
+    "output": "Shuri"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 29",
+    "output": "Okoye"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 30",
+    "output": "Valkyrie"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 31",
+    "output": "Korg"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 32",
+    "output": "Heimdall"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 33",
+    "output": "Peggy Carter"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 34",
+    "output": "Howard Stark"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 35",
+    "output": "Wong"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 36",
+    "output": "The Ancient One"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 37",
+    "output": "Jane Foster"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 38",
+    "output": "Darcy Lewis"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 39",
+    "output": "Happy Hogan"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 40",
+    "output": "Pepper Potts"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 41",
+    "output": "Thanos"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 42",
+    "output": "Red Skull"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 43",
+    "output": "Ultron"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 44",
+    "output": "Hela"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 45",
+    "output": "Killmonger"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 46",
+    "output": "Yondu"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 47",
+    "output": "Ronan the Accuser"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 48",
+    "output": "Ego the Living Planet"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 49",
+    "output": "Obadiah Stane"
+  },
+  {
+    "instruction": "List a Marvel character",
+    "input": "Character 50",
+    "output": "Justin Hammer"
+  }
+]
